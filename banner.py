@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/pyhton3
 # -*- coding: utf-8 -*-
 # Xerosploit banners
 
